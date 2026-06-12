@@ -1,8 +1,15 @@
-# Hej 👋
 
-Velkommen til min GitHub Pages side.
+Så gør GitHub dette automatisk:
 
-Dette er min første Markdown hjemmeside 🚀
+✔ Genkender `yml` / `md` / `js` osv.  
+✔ Tilføjer farver (syntax highlighting)  
+✔ Viser det som en “pæn kodeblok”
 
-- Om mig kommer senere
-- Projekter kommer senere
+---
+
+# 🧠 Det du ser i billedet
+
+Det er en:
+
+```text
+code block + YAML syntax highlighting
